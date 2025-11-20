@@ -1,3 +1,4 @@
+1249a8a Task 2.3 is complete, usd helped function created.
 3ea7faa Task 2.2 is complete, volumeCredits helper method created.
 d370d16 Task 2.1 is complete, made some helper methods in StatementPrinter.
 6509ce6 Task 1.2 is complete, started to report my logs in the log.txt file.
