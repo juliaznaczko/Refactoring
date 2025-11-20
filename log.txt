@@ -1,3 +1,5 @@
+d370d16 Task 2.1 is complete, made some helper methods in StatementPrinter.
+6509ce6 Task 1.2 is complete, started to report my logs in the log.txt file.
 c875688 Task 1.1 is complete.
 3309591 Edits made to change visibility to private and add getters, change attributes to final if never modified and docstring.
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
